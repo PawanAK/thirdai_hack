@@ -1,1 +1,2 @@
-# thirdai_hack
+# "Cogni: "
+Connecting Intelligence, Context, and Content
